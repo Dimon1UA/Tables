@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(27, 75, 29);
+}
+h1{
+    color: white;
+}
+table{
+    margin: auto;
+    background-color: bisque;
+    width: 1500px;
+    height: 700px;
+    text-align: center  ;
+    color: mediumblue;
+}
+.name{
+    background: linear-gradient(to right, rgb(131, 45, 45), rgb(190, 149, 151));
+    color: gold ;
+}
+.color{
+    background-color:rgb(131, 45, 45) ;
+    color: honeydew;
+}
+.colora{
+    background-color: rgb(155, 117, 117);
+    color: honeydew;
+}
